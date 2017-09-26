@@ -59,7 +59,7 @@ Initial Release
         </releaseNotes>
         <dependencies>
             <!--<group>-->
-                <dependency id="Acr.Settings" version="[4.3, 5)" />
+                <dependency id="Acr.Settings" version="4.3" />
                 <dependency id="Rx-Main" version="[2.2.5, 3)" />
             <!--</group>
             <group target="UAP10.0">

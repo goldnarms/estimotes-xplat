@@ -189,3 +189,4 @@ _Pvt_Extensions/
 ModelManifest.xml
 *.userprefs
 *.nupkg
+.vs/Estimotes/v15/sqlite3/storage.ide
